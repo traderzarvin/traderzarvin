@@ -13,9 +13,16 @@
 
 ## Hey, I am the ShopQuik's Creative Director.!
 
-I am a Creative Director who actually ships code. Currently leading the vision at **ShopQuik** , I blend the precision of a developer with the empathy of a designer to build platforms that respect the user's time. I believe that a product should be 'calm to look at' but powerful to use. I believe the best digital products are born when creativity meets technical execution. That's why I don't just design interfaces, build them. From concept to code, I'm hands-on with every pixel and every line, ensuring that what we envision is exactly what users experience.
+I am a Creative Director who actually ships code. Currently leading the vision at **ShopQuik** , I blend the precision of a developer with the empathy of a designer to build platforms that respect the user's time.
 
-believe the best user experiences are built on solid foundations. While I use Adobe tools to craft the 'soft' and 'calm' visual language of ShopQuik, my true medium is the web itself. I leverage the raw power of HTML, CSS, and JavaScript to build interfaces that are not only beautiful but incredibly fast. By writing clean, semantic code, I ensure that our 'Core Features Grid' and 'hero sections' load instantly, respecting the user's time and delivering on our promise of 'seconds, not minutes
+I believe that a product should be 'calm to look at' but powerful to use. I believe the best digital products are born when creativity meets technical execution. That's why I don't just design interfaces, build them. 
+From concept to code, I'm hands-on with every pixel and every line, ensuring that what we envision is exactly what users experience.
+
+---
+
+I believe the best user experiences are built on solid foundations. While I use Adobe tools to craft the 'soft' and 'calm' visual language of ShopQuik, my true medium is the web itself. I leverage the raw power of HTML, CSS, and JavaScript to build interfaces that are not only beautiful but incredibly fast. 
+
+By writing clean, semantic code, I ensure that our 'Core Features Grid' and 'hero sections' load instantly, respecting the user's time and delivering on our promise of 'seconds, not minutes
 
 ![Adobe](https://img.shields.io/badge/Adobe-%238B5CF6.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%238B5CF6.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +30,9 @@ believe the best user experiences are built on solid foundations. While I use Ad
 ![JavaScript](https://img.shields.io/badge/JavaScript-%238B5CF6.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-I move fluidly between the Adobe Creative Suite and my code editor, ensuring that the 'soft' aesthetic we envision is exactly what the user experiences in the browser. I’m not just pushing pixels; I’m building a system where aesthetics and functionality coexist to solve real problems, ensuring that online shopping never feels like a project
+I move fluidly between the Adobe Creative Suite and my code editor, ensuring that the 'soft' aesthetic we envision is exactly what the user experiences in the browser. 
+
+I’m not just pushing pixels; I’m building a system where aesthetics and functionality coexist to solve real problems, ensuring that online shopping never feels like a project
 
 <div align="center">
   
@@ -32,7 +41,11 @@ I move fluidly between the Adobe Creative Suite and my code editor, ensuring tha
 </div>
 
 
-I operate on the principle of compounding consistency. I don't believe in overnight overhauls; I believe in the discipline of getting 1% better every day. Whether it's shaving milliseconds off a load time or refining the kerning on a header, I approach every task with the same level of scrutiny. In a fast-paced environment like ShopQuik, this relentless focus on small, daily improvements is what allows us to turn complex problems into simple, 'calm' solutions that stand the test of time.
+I operate on the principle of compounding consistency. I don't believe in overnight overhauls; I believe in the discipline of getting 1% better every day.
+
+Whether it's shaving milliseconds off a load time or refining the kerning on a header, I approach every task with the same level of scrutiny. 
+
+In a fast-paced environment like ShopQuik, this relentless focus on small, daily improvements is what allows us to turn complex problems into simple, 'calm' solutions that stand the test of time.
 
 <div align="center">
   
