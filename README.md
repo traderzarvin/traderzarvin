@@ -25,7 +25,7 @@ believe the best user experiences are built on solid foundations. While I use Ad
 
 I move fluidly between the Adobe Creative Suite and my code editor, ensuring that the 'soft' aesthetic we envision is exactly what the user experiences in the browser. I’m not just pushing pixels; I’m building a system where aesthetics and functionality coexist to solve real problems, ensuring that online shopping never feels like a project
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msdanicodes&show_icons=true&theme=radical&hide_border=true&bg_color=8B5CF6&title_color=FFFFFF&text_color=FFFFFF&icon_color=E879F9)
+![GitHub Stats](<div class="tenor-gif-embed" data-postid="14561996707246089000" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000">Ai Grok Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 I operate on the principle of compounding consistency. I don't believe in overnight overhauls; I believe in the discipline of getting 1% better every day. Whether it's shaving milliseconds off a load time or refining the kerning on a header, I approach every task with the same level of scrutiny. In a fast-paced environment like ShopQuik, this relentless focus on small, daily improvements is what allows us to turn complex problems into simple, 'calm' solutions that stand the test of time.
 
