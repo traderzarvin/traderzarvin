@@ -8,7 +8,8 @@
 
 ---
 
-[WhatsApp Image 2026-02-04 at 21 35 55](https://github.com/user-attachments/assets/04e957df-ee31-454f-95a8-e50d4d515b28)
+![WhatsApp Image 2026-02-04 at 21 35 55](https://github.com/user-attachments/assets/04e957df-ee31-454f-95a8-e50d4d515b28)
+
 
 ## Hey, I am the ShopQuik's Creative Director.!
 
