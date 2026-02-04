@@ -8,10 +8,9 @@
 
 ---
 
+[WhatsApp Image 2026-02-04 at 21 35 55](https://github.com/user-attachments/assets/04e957df-ee31-454f-95a8-e50d4d515b28)
 
-<div align="center">
-
-## Hey, I am the ShopQuik's Creative Director.
+## Hey, I am the ShopQuik's Creative Director.!
 
 I am a Creative Director who actually ships code.  
 Currently leading the vision at **ShopQuik**, I blend the precision of a developer with the empathy of a designer to build platforms that respect the user's time.
@@ -21,7 +20,7 @@ The best digital products are born when creativity meets technical execution.
 
 From concept to code, I'm hands-on with every pixel and every line—ensuring what we envision is exactly what users experience.
 
-</div>
+
 
 
 My playground spans across Adobe's creative suite for design work, and HTML, CSS, and JavaScript for bringing those designs to life on the web. I'm passionate about creating interfaces that are not only visually stunning but also intuitive, accessible, and performant. Whether it's crafting a brand identity or architecting a responsive layout, I approach each project with the same dedication to excellence.
