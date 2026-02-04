@@ -59,7 +59,7 @@ My work ethic is built on subtraction, not addition. In a world of digital noise
 
 </div>
 
-Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve—transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer—proving that high performance and high design can coexist perfectly.
+Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve; transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer; proving that high performance and high design can coexist perfectly.
 
 ![IMG_2393](https://github.com/user-attachments/assets/7be4d4a2-dc53-424d-ab1b-c346ca1566d7)
 
