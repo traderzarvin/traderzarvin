@@ -2,17 +2,27 @@
 
 # Hey, I'm •❃°•Dani•°❃•
 
-**Creative Director @ shopquik** | 1% better everyday 🚀
+**Creative Director, ShopQuik** | 1% better everyday
 
 </div>
 
 ---
 
-## 👋 About Me
 
-I'm a creative director who lives at the intersection of design and code. Currently leading the creative vision at shopquik, where I blend aesthetics with functionality to create digital experiences that don't just look good—they feel right. My approach is simple: get 1% better every day, because small consistent improvements compound into extraordinary results.
+<div align="center">
 
-I believe the best digital products are born when creativity meets technical execution. That's why I don't just design interfaces—I build them. From concept to code, I'm hands-on with every pixel and every line, ensuring that what we envision is exactly what users experience.
+## Hey, I am the ShopQuik's Creative Director.
+
+I am a Creative Director who actually ships code.  
+Currently leading the vision at **ShopQuik**, I blend the precision of a developer with the empathy of a designer to build platforms that respect the user's time.
+
+I believe a product should be *calm to look at* but powerful to use.  
+The best digital products are born when creativity meets technical execution.
+
+From concept to code, I'm hands-on with every pixel and every line—ensuring what we envision is exactly what users experience.
+
+</div>
+
 
 My playground spans across Adobe's creative suite for design work, and HTML, CSS, and JavaScript for bringing those designs to life on the web. I'm passionate about creating interfaces that are not only visually stunning but also intuitive, accessible, and performant. Whether it's crafting a brand identity or architecting a responsive layout, I approach each project with the same dedication to excellence.
 
