@@ -25,7 +25,8 @@ believe the best user experiences are built on solid foundations. While I use Ad
 
 I move fluidly between the Adobe Creative Suite and my code editor, ensuring that the 'soft' aesthetic we envision is exactly what the user experiences in the browser. I’m not just pushing pixels; I’m building a system where aesthetics and functionality coexist to solve real problems, ensuring that online shopping never feels like a project
 
-![AI Grok](https://media1.tenor.com/m/ltH-ab_AT8AAAAAd/ai-grok.gif)
+![AI Grok](https://media.tenor.com/yhaa2jvPoygAAAAj/ai-grok.gif)
+
 
 I operate on the principle of compounding consistency. I don't believe in overnight overhauls; I believe in the discipline of getting 1% better every day. Whether it's shaving milliseconds off a load time or refining the kerning on a header, I approach every task with the same level of scrutiny. In a fast-paced environment like ShopQuik, this relentless focus on small, daily improvements is what allows us to turn complex problems into simple, 'calm' solutions that stand the test of time.
 
