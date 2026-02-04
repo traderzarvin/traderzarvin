@@ -35,13 +35,15 @@ I operate on the principle of compounding consistency. I don't believe in overni
 
 </div>
 
-Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve—transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer—proving that high performance and high design can coexist perfectly.
+My work ethic is built on subtraction, not addition. In a world of digital noise, I fight for clarity. I believe that true craftsmanship lies in stripping away the unnecessary until only the essential remains. I am rigorous about details, treating every pixel and every line of code as an opportunity to honor the user's time.
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=msdanicodes&theme=high-contrast&bg_color=8B5CF6&color=FFFFFF&line=E879F9&point=C084FC&hide_border=true)
 
 </div>
 
 ![IMG_2393](https://github.com/user-attachments/assets/7be4d4a2-dc53-424d-ab1b-c346ca1566d7)
 
+Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve—transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer—proving that high performance and high design can coexist perfectly.
 ---
 
 <div align="center">
