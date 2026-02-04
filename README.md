@@ -1,8 +1,10 @@
-# Hey, I'm Dani •❃°•
+<div align="center">
+
+# Hey, I'm •❃°•Dani•°❃•
 
 **Creative Director @ shopquik** | 1% better everyday 🚀
 
-📍 Somewhere in the internet
+</div>
 
 ---
 
