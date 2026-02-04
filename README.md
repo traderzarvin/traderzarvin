@@ -25,7 +25,7 @@ believe the best user experiences are built on solid foundations. While I use Ad
 
 I move fluidly between the Adobe Creative Suite and my code editor, ensuring that the 'soft' aesthetic we envision is exactly what the user experiences in the browser. I’m not just pushing pixels; I’m building a system where aesthetics and functionality coexist to solve real problems, ensuring that online shopping never feels like a project
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msdanicodes&layout=compact&theme=radical&hide_border=true&bg_color=8B5CF6&title_color=FFFFFF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msdanicodes&show_icons=true&theme=radical&hide_border=true&bg_color=8B5CF6&title_color=FFFFFF&text_color=FFFFFF&icon_color=E879F9)
 
 I operate on the principle of compounding consistency. I don't believe in overnight overhauls; I believe in the discipline of getting 1% better every day. Whether it's shaving milliseconds off a load time or refining the kerning on a header, I approach every task with the same level of scrutiny. In a fast-paced environment like ShopQuik, this relentless focus on small, daily improvements is what allows us to turn complex problems into simple, 'calm' solutions that stand the test of time.
 
@@ -41,9 +41,10 @@ My work ethic is built on subtraction, not addition. In a world of digital noise
 
 </div>
 
+Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve—transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer—proving that high performance and high design can coexist perfectly.
+
 ![IMG_2393](https://github.com/user-attachments/assets/7be4d4a2-dc53-424d-ab1b-c346ca1566d7)
 
-Ultimately, I’m a builder who loves the web. I’m always looking for the next problem to solve—transforming complex technical constraints into 'soft,' intuitive solutions. My goal is to create a digital world that doesn't just work faster, but feels safer—proving that high performance and high design can coexist perfectly.
 ---
 
 <div align="center">
